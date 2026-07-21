@@ -1,0 +1,36 @@
+# Kairos.Artifex
+
+> Strategy, Design and Engineering working as one. Kairos.Artifex is a premium creative development agency.
+
+This file provides information about the services, disciplines, case studies, and contact details of Kairos.Artifex, optimized for LLMs and AI agents.
+
+## Core Information
+- [Home Page](https://kairosartifex.site/) - Main entry point of the portfolio containing hero section, interactive showcases, bio, and contact form.
+- [Sitemap](https://kairosartifex.site/sitemap.xml) - XML sitemap of all indexable pages.
+- [llms-full.txt](https://kairosartifex.site/llms-full.txt) - The full, detailed knowledge base of Kairos.Artifex for AI models.
+
+## Disciplines & Expertise
+- Brand Strategy & Brand Identity
+- UI/UX Design & Product Design
+- Website Design & SaaS Design
+- Creative Development & Next.js Development
+- Three.js WebGL Experiences & Motion Design
+- AI Integrations
+
+## Case Studies
+- [Aakar Concept Study](https://kairosartifex.site/work/aakar) - Premium logo and visual identity concept designed around craftsmanship, natural materials, and architectural elegance (2025).
+- [Dhankamya Branding](https://kairosartifex.site/work/dhankamya) - Luxury jewelry brand identity design specializing in natural stone ornaments (2025).
+- [Lorive Perfume Branding](https://kairosartifex.site/work/lorive) - Artisanal premium perfume brand identity built on restraint, calm color palettes, and floral symbolism (2025).
+- [MechTech Infrasolutions](https://kairosartifex.site/work/mechtech) - Modern digital platform and interface design system for infrastructure and engineering (2026).
+- [Dhankamya UI/UX](https://kairosartifex.site/work/dhankamya-uiux) - E-commerce landing page concept with minimal layout for handcrafted stone jewelry (2025).
+- [Luxora Candle Branding](https://kairosartifex.site/work/luxora) - Premium aesthetic candle brand website design concept focusing on editorial layouts (2025).
+
+## Founders
+- **Ankit Bhavarthe** - Graphic Designer, UI/UX Designer & Full Stack Developer. Website: [ankitbhavarthe.xyz](https://ankitbhavarthe.xyz), GitHub: [Ankit-2563](https://github.com/Ankit-2563).
+- **Satyam Bhosale** - UI/UX Designer & Full Stack Developer. Website: [testsatyam.online](https://www.testsatyam.online/), GitHub: [SatyamBhosale](https://github.com/SatyamBhosale).
+
+## Contacts & Socials
+- Email: [kairosartifex@gmail.com](mailto:kairosartifex@gmail.com)
+- Dribbble: [Kairos Agency Dribbble](https://dribbble.com/kairosagency-work)
+- Instagram: [@kairos.artifex](https://www.instagram.com/kairos.artifex)
+- X/Twitter: [@kairosartifex](https://x.com/kairosartifex)
