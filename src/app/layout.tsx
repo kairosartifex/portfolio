@@ -7,6 +7,7 @@ import InteractiveShell from "@/components/InteractiveShell";
 import PageTransition from "@/components/PageTransition";
 import BgmPlayer from "@/components/BgmPlayer";
 import LenisProvider from "@/components/LenisProvider";
+import { Analytics } from "@vercel/analytics/next";
 
 // ponytail: primary font — LayGrotesk with all 5 weights
 const layGrotesk = localFont({
@@ -131,6 +132,7 @@ export default function RootLayout({
         <LenisProvider>
           {children}
         </LenisProvider>
+        <Analytics />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
