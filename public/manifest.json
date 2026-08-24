@@ -1,0 +1,21 @@
+{
+  "name": "Kairos Artifex",
+  "short_name": "Kairos Artifex",
+  "description": "Kairos Artifex - Strategy, Design and Engineering working as one.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
